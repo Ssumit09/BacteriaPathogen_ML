@@ -1,0 +1,11 @@
+filename,filepath,sample_id,agar,species,time_hr,label_bpseudomallei
+1-Blood_Agar_BurkholderiaCepacia_24HR.png,data\raw\1-Blood_Agar_BurkholderiaCepacia_24HR.png,1.0,Blood,BurkholderiaCepacia,24,0
+2-Ashdown_Agar_PseudomonasAeruginosa_24HR.png,data\raw\2-Ashdown_Agar_PseudomonasAeruginosa_24HR.png,2.0,Ashdown,PseudomonasAeruginosa,24,0
+2-Blood_Agar_PseudomonasAeruginosa_24HR.png,data\raw\2-Blood_Agar_PseudomonasAeruginosa_24HR.png,2.0,Blood,PseudomonasAeruginosa,24,0
+2-MacConkey_Agar_PseudomonasAeruginosa_24HR.png,data\raw\2-MacConkey_Agar_PseudomonasAeruginosa_24HR.png,2.0,Macconkey,PseudomonasAeruginosa,24,0
+3-Ashdown_Agar_PseudomonasAeruginosa_24HR.png,data\raw\3-Ashdown_Agar_PseudomonasAeruginosa_24HR.png,3.0,Ashdown,PseudomonasAeruginosa,24,0
+3-Blood_Agar_PseudomonasAeruginosa_24HR.png,data\raw\3-Blood_Agar_PseudomonasAeruginosa_24HR.png,3.0,Blood,PseudomonasAeruginosa,24,0
+3-MacConkey_Agar_PseudomonasAeruginosa_24HR.png,data\raw\3-MacConkey_Agar_PseudomonasAeruginosa_24HR.png,3.0,Macconkey,PseudomonasAeruginosa,24,0
+Ashdown_Agar_PseudomonasAeruginosa_24HR.png,data\raw\Ashdown_Agar_PseudomonasAeruginosa_24HR.png,,Ashdown,PseudomonasAeruginosa,24,0
+Blood_Agar_PseudomonasAeruginosa_24HR.png,data\raw\Blood_Agar_PseudomonasAeruginosa_24HR.png,,Blood,PseudomonasAeruginosa,24,0
+MacConkey_Agar_PseudomonasAeruginosa_24HR.png,data\raw\MacConkey_Agar_PseudomonasAeruginosa_24HR.png,,Macconkey,PseudomonasAeruginosa,24,0
