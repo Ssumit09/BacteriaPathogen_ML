@@ -1,0 +1,3 @@
+filename,filepath,sample_id,agar,species,time_hr,label_bpseudomallei
+3-MacConkey_Agar_PseudomonasAeruginosa_24HR.png,data\raw\3-MacConkey_Agar_PseudomonasAeruginosa_24HR.png,3.0,Macconkey,PseudomonasAeruginosa,24,0
+2-MacConkey_Agar_PseudomonasAeruginosa_24HR.png,data\raw\2-MacConkey_Agar_PseudomonasAeruginosa_24HR.png,2.0,Macconkey,PseudomonasAeruginosa,24,0
