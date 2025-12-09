@@ -16,7 +16,7 @@ CSV_PATH = OUTPUT_DIR / "dataset_metadata.csv"
 # REGEX PATTERN to parse filenames
 # ----------------------------
 pattern = re.compile(
-    r'^(?:([\d]+)-)?(Ashdown|Blood|MacConkey)_Agar_([A-Za-z]+)_([0-9]+)HR',
+    r'^(?:([\d]+)-)?(Ashdown|Blood|MacConkey|Nutrient)_Agar_([A-Za-z]+)_([0-9]+)HR',
     re.IGNORECASE
 )
 
@@ -24,7 +24,12 @@ pattern = re.compile(
 # PARSE FILES
 # ----------------------------
 rows = []
-for img_path in DATA_DIR.glob("*.png"):
+for img_path in sorted(DATA_DIR.iterdir()):
+    if not img_path.is_file():
+        continue
+    if img_path.suffix.lower() not in {'.png', '.jpg', '.jpeg'}:
+        continue
+    
     name = img_path.stem
     match = pattern.match(name)
 
