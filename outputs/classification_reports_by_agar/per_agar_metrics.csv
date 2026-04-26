@@ -1,0 +1,4 @@
+agar,n_samples,n_bpseudo,n_other,accuracy,precision,recall,f1_score,TP,TN,FP,FN
+Ashdown,10,4,6,0.8,1.0,0.5,0.6666666666666666,2,6,0,2
+Blood,7,3,4,0.8571428571428571,1.0,0.6666666666666666,0.8,2,4,0,1
+Macconkey,12,5,7,0.8333333333333334,0.8,0.8,0.8,4,6,1,1
